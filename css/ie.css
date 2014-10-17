@@ -1,0 +1,13 @@
+
+.class { behavior:url(js/baginet/PIE.htc); position:absolute;}
+.num_section{behavior:url(js/baginet/PIE.htc); position: relative;}
+/*.thumb-pad1, .thumb-pad1 figure > img, .thumb-pad1 figure > em, .thumb-pad1 time { behavior:url(js/baginet/PIE.htc);}*/
+
+a.magnifier2:hover .zoom{
+	display: block;
+}
+a.magnifier2 .zoom{
+	display: none;
+}
+
+body{min-width: 1060px;}
